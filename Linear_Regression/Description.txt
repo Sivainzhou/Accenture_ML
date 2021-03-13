@@ -1,0 +1,6 @@
+This holder contains: 
+    
+    1. Codes: OLS, OLS with interaction terms, residual analysis
+    2. A complementary dataset
+    
+Note : When you have a categorical var containing many possible values with no hierarchy, you can't label them from 1 to n, because it has no meaning; instead you could try break it down into multiple categorical vars.
